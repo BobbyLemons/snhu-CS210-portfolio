@@ -9,7 +9,7 @@ This folder holds my three CS-210 projects, all written in C++:
 
 The Corner Grocer folder contains main.cpp, GroceryTracker.h, GroceryTracker.cpp, the input file, and a sample frequency.dat output file. To run it, compile all the .cpp files together and run the program from the same folder as the input file.
 
-                              Summarize the project and what problem it was solving.
+**Summarize the project and what problem it was solving.**
   The Corner Grocer wanted to rearrange its produce section based on what customers buy most often. The store keeps a text file listing every item purchased during the day, but that list is hard to use on its own. My program reads the file, counts how many times each item was purchased, and gives the user a menu with four options: look up one item, print every item with its count, print a histogram using asterisks, or exit. It also saves all of the counts to a backup file called frequency.dat when the program starts.
 
 **What did you do particularly well?**
