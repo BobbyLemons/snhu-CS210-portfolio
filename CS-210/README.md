@@ -7,10 +7,10 @@ Southern New Hampshire University
 
 This folder holds my three CS-210 projects, all written in C++:
 
-- Corner Grocer: item purchase frequency program (the project I chose for this reflection)
-- Airgead Banking: investment growth calculator
-- Chada Tech Clock: 12-hour and 24-hour clock display
-
+- Corner Grocer: Item purchase frequency program (the project I chose for this reflection)
+- Airgead Banking: Investment growth calculator
+- Chada Tech Clock: 12-hr & 24-hr clock display
+  
 The Corner_Grocer folder contains main.cpp, GroceryTracker.h, GroceryTracker.cpp, the input file, and a sample frequency.dat output file. To run it, compile all the .cpp files together and run the program from the same folder as the input file.
 
 
