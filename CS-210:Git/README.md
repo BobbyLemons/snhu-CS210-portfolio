@@ -1,6 +1,6 @@
-CS-210 Programming Languages
+CS-210 Programming Languages // Southern New Hampshire University
 Brian Beaudin  
-Southern New Hampshire University
+
 
 This folder holds my three CS-210 projects, all written in C++:
 •	Corner Grocer: item purchase frequency program (the project I chose for this reflection)
