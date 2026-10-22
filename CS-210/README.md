@@ -7,7 +7,7 @@ Southern New Hampshire University
 
 This folder holds my three CS-210 projects, all written in C++:
 
-- Corner_Grocer: item purchase frequency program (the project I chose for this reflection)
+- Corner Grocer: item purchase frequency program (the project I chose for this reflection)
 - Airgead Banking: investment growth calculator
 - Chada Tech Clock: 12-hour and 24-hour clock display
 
