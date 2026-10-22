@@ -1,4 +1,4 @@
-// CS-210 Programming Languages
+CS-210 Programming Languages
 // Brian Beaudin  
 // Southern New Hampshire University
 
